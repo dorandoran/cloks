@@ -12,9 +12,16 @@ Upcoming updates:
 - Known bug fixes (adding/deleting punches doesn't change clock color)
 
 ## Application Demo
-![Creating Clock](https://github.com/dorandoran/cloks/blob/master/images/Creating%20Clock.gif)![Deleting Clock](https://github.com/dorandoran/cloks/blob/master/images/Delete%20Clock.gif)
+#### Create Clock
+![Creating Clock](https://github.com/dorandoran/cloks/blob/master/images/Creating%20Clock.gif)
+#### Delete Clock
+![Deleting Clock](https://github.com/dorandoran/cloks/blob/master/images/Delete%20Clock.gif)
+#### Clock In/Out
 ![Clocking In](https://github.com/dorandoran/cloks/blob/master/images/Clocking%20In.gif)
-![Edit Punch](https://github.com/dorandoran/cloks/blob/master/images/Edit%20Punch.gif)![Delete Punch](https://github.com/dorandoran/cloks/blob/master/images/Delete%20Punch.gif)
+#### Edit Punch
+![Edit Punch](https://github.com/dorandoran/cloks/blob/master/images/Edit%20Punch.gif)
+#### Delete Punch
+![Delete Punch](https://github.com/dorandoran/cloks/blob/master/images/Delete%20Punch.gif)
 
 ## License
 © 2018 Phillip Doran

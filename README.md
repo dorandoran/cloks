@@ -15,4 +15,4 @@ Upcoming updates:
 
 
 ## License
-2018 Phillip Doran
+© 2018 Phillip Doran

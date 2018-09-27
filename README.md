@@ -18,3 +18,5 @@ Upcoming updates:
 
 ## License
 © 2018 Phillip Doran
+
+![Icon](https://github.com/dorandoran/cloks/blob/master/images/GooglePlayStore.png)

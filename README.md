@@ -1,4 +1,5 @@
 # cloks
+![cloks](https://github.com/dorandoran/cloks/blob/master/images/cloks-feature-graphic.png)
 A simple way to keep track of how much time you spend on work projects, life projects, day-to-day activities... whatever you need! 
 
 Check out cloks on the [Apple App Store](https://itunes.apple.com/us/app/cloks/id1436525416?ls=1&mt=8) or the [Google Play Store](https://play.google.com/store/apps/details?id=io.llamainstance.cloks)!
@@ -11,8 +12,11 @@ Upcoming updates:
 - Known bug fixes (adding/deleting punches doesn't change clock color)
 
 ## Application Demo
-
-
+![Creating Clock](https://github.com/dorandoran/cloks/blob/master/images/Creating%20Clock.gif)
+![Deleting Clock](https://github.com/dorandoran/cloks/blob/master/images/Delete%20Clock.gif)
+![Clocking In](https://github.com/dorandoran/cloks/blob/master/images/Clocking%20In.gif)
+![Edit Punch](https://github.com/dorandoran/cloks/blob/master/images/Edit%20Punch.gif)
+![Delete Punch](https://github.com/dorandoran/cloks/blob/master/images/Delete%20Punch.gif)
 
 ## License
 © 2018 Phillip Doran
